@@ -30,13 +30,12 @@ PyTorch Integration: Implement deep learning models for audio classification and
 
 9-extracting-mel-spectograms: Implementation of Mel-scale spectrogram extraction
 
-### Technologies Used
+### Technologies Used and expermented upon
 
-Python
+Librosa (for audio processing)
+Wave (for WAV file manipulation
 PyAudio
 NumPy
 Matplotlib
 PyTorch
-Librosa (for audio processing)
-Wave (for WAV file manipulation
 Ipython
